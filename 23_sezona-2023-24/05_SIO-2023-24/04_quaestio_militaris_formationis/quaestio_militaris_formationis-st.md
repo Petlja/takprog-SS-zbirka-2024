@@ -7,6 +7,7 @@
 <br>
 
 ## Опис функција
+crafted-dir: testcases
 
 <br>
 

@@ -7,6 +7,7 @@
 ## Описи функција
 
 Потребно је да имплементирате функције
+crafted-dir: testcases
 
 -   $Init(N,  A[\ldots])$
 -   $Query(L, R)$
