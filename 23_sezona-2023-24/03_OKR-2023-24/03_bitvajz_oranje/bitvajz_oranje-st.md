@@ -1,18 +1,18 @@
 ---
 title: Битвајз орање
-timelimit: 1.0 # у секундама
-memlimit: 64   # y MB
-owner: takprog # власник је онај ко ради на задатку
-origin: # опционо (ако се зна одакле је задатак преузет, пожељно је навести извор)
-tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
-status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
-status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+timelimit: 0.157
+memlimit: 64
+owner: takprog
+origin: null
+tags: []
+status: KOMPLETAN
+status-date: 2024-08-15
 crafted-dir: testcases
 solutions:
-  - name: ex0
-    lang: [cpp]
-    desc: ""
-    tags: []
+- name: ex0
+  lang: [cpp]
+  desc: ''
+  tags: []
 ---
 
 Ања и Богдан играју игру „Њиве“. Она се игра тако што се на почетку одреди број $x$ и шпил карата $S_1, S_2, \ldots , S_K$. На $i$-тој карти налази се $S_i$ зрна кукуруза ($1 \leq i \leq K$). Затим се вуку следећи потези:
@@ -155,3 +155,4 @@ solutions:
 - У тестовима вредним 28 поена: Без додатних ограничења.
 
 <br>
+

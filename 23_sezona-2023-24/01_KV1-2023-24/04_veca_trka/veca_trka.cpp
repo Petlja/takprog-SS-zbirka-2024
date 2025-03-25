@@ -41,7 +41,7 @@ int main()
     scanf("%d%lld",&N,&K);
     for(int i=1;i<=N;i++) scanf("%lld%lld",&x[i],&v[i]);
     double l=0,r=1000000000;
-    while(r-l>5e-10)
+    while(abs(r-l)>5e-8)
     {
         double s=0.5*(l+r);
         if(provera(s)) r=s;

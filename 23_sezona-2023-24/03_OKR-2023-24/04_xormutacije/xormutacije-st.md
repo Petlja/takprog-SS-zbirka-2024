@@ -1,18 +1,18 @@
 ---
 title: Хормутације
-timelimit: 1.0 # у секундама
-memlimit: 64   # y MB
-owner: takprog # власник је онај ко ради на задатку
-origin: # опционо (ако се зна одакле је задатак преузет, пожељно је навести извор)
-tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
-status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
-status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+timelimit: 0.137
+memlimit: 64
+owner: takprog
+origin: null
+tags: []
+status: KOMPLETAN
+status-date: 2024-08-15
 crafted-dir: testcases
 solutions:
-  - name: ex0
-    lang: [cpp]
-    desc: ""
-    tags: []
+- name: ex0
+  lang: [cpp]
+  desc: ''
+  tags: []
 ---
 
 Стефан је од недавно постао професор на једном врло престижном универзитету и поводом тога организује журку. Ипак, организација му никад није била јача страна, па је заказао журку у сред испитног рока!
@@ -115,3 +115,4 @@ $$X = (P_0 \oplus Q_0) + (P_1 \oplus Q_1) + \ldots + (P_N \oplus Q_N).$$
 ## Напомена
 
 Оператор $\oplus$ представља операцију [искључиве дисјункције](https://sr.wikipedia.org/wiki/Искључива_дисјункција).
+

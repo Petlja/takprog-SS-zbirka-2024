@@ -1,18 +1,18 @@
 ---
 title: Морамо да рециклирамо
-timelimit: 1.0 # у секундама
-memlimit: 64   # y MB
-owner: takprog # власник је онај ко ради на задатку
-origin: # опционо (ако се зна одакле је задатак преузет, пожељно је навести извор)
-tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
-status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
-status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+timelimit: 0.684
+memlimit: 64
+owner: takprog
+origin: null
+tags: []
+status: KOMPLETAN
+status-date: 2024-08-15
 crafted-dir: testcases
 solutions:
-  - name: ex0
-    lang: [cpp]
-    desc: ""
-    tags: []
+- name: ex0
+  lang: [cpp]
+  desc: ''
+  tags: []
 ---
 
 Морамо да рециклирамо!
@@ -79,3 +79,4 @@ solutions:
 * У тестовима вредним 30 поена: $N, Q \leq 5.000$.
 * У тестовима вредним 15 поена: За све $1 \leq i \leq N$ важи $C_i \leq 10$.
 * У тестовима вредним 25 поена: Без додатних ограничења.
+
