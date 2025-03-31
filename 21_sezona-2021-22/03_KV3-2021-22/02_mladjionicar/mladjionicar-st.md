@@ -1,18 +1,18 @@
 ---
 title: Мађионичар
-timelimit: 1.0 # у секундама
-memlimit: 64   # y MB
-owner: takprog # власник је онај ко ради на задатку
-origin: # опционо (ако се зна одакле је задатак преузет, пожељно је навести извор)
-tags: [] # сваки задатак може бити означен према унапред договореној листи ознака
-status: KOMPLETAN # један од: "IZRADA", "PREGLED" или "KOMPLETAN".
-status-date: 2024-08-15 # датум у формату YYYY-MM-DD од када је задатак у наведеном статусу
+timelimit: 0.05
+memlimit: 64
+owner: takprog
+origin: null
+tags: []
+status: KOMPLETAN
+status-date: 2024-08-15
 crafted-dir: testcases
 solutions:
-  - name: ex0
-    lang: [cpp]
-    desc: ""
-    tags: []
+- name: ex0
+  lang: [cpp]
+  desc: ''
+  tags: []
 ---
 
 Младен је пре неколико дана гледао мађионичарску представу, у којој је
@@ -101,3 +101,5 @@ nemoguce
 - У тестовима вредним 30 поена важи $N \leq 200$.
 - У тестовима вредним 30 поена важи $N \leq 2000$.
 - У тестовима вредним 40 поена нема додатних ограничења.
+
+

@@ -116,3 +116,5 @@ $$X = (P_0 \oplus Q_0) + (P_1 \oplus Q_1) + \ldots + (P_N \oplus Q_N).$$
 
 Оператор $\oplus$ представља операцију [искључиве дисјункције](https://sr.wikipedia.org/wiki/Искључива_дисјункција).
 
+
+
