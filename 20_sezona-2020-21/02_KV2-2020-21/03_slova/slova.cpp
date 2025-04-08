@@ -9,7 +9,7 @@ char s[N];
 int main() {
     int n;
     scanf("%d", &n);
-    scanf("%s", &s);
+    scanf("%s", s);
 
     for(int i = 0; i < 26; i++)
         ways[i] = 0;

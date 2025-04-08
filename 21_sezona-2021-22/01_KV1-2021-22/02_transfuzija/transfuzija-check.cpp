@@ -45,7 +45,7 @@ int main(int argc, char *argv[]) {
     for(int i = 0; i < n; i++) {
         char group_s[20];
         int need;
-        fscanf(in, " %s %d", &group_s, &need);
+        fscanf(in, " %s %d", group_s, &need);
         GROUP group = parse_group(group_s);
 
         int uo, ua, ub, uab;

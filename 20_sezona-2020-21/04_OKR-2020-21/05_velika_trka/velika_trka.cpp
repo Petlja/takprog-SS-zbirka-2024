@@ -6,7 +6,7 @@ int main()
 {
 	int n,q;
 	scanf("%d",&n);
-	for(int i=1;i<=n;i++) scanf("%d%d",&x[i],&y[i]);
+	for(int i=1;i<=n;i++) scanf("%lld%lld",&x[i],&y[i]);
 	for(int i=1;i<=n;i++) px[i]=px[i-1]+x[i]*((i&1)?1:-1);
 	for(int i=1;i<=n;i++) py[i]=py[i-1]+y[i]*((i&1)?1:-1);
 	scanf("%d",&q);

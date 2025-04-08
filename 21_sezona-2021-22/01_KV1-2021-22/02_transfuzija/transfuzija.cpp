@@ -41,7 +41,7 @@ int main() {
     
     for(int i = 0; i < n; i++) {
         char group[10];
-        scanf(" %s %d", &group, &patients[i].todo);
+        scanf(" %s %d", group, &patients[i].todo);
         patients[i].group = parse_group(group);
     }
 

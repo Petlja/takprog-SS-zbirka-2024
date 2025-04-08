@@ -34,6 +34,7 @@ int quadrant(Point a) {
     if(a.y >  0) return 1;
     if(a.y <  0) return 3;
   }
+  return -1;
 }
 
 bool cmp(Point a, Point b) {

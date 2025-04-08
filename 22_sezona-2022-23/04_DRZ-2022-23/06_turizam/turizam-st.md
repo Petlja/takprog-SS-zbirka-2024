@@ -41,7 +41,7 @@ solutions:
 
 ## Ограничења
 *   $1 \leq N, Q \leq 10^5$,
-*   $0 \leq А_i < 2^{20}$ за $1 \leq i \leq N$,
+*   $0 \leq A_i < 2^{20}$ за $1 \leq i \leq N$,
 *   $T_i \in \{1, 2\}$ за $1 \leq i \leq Q$,
 *   $1 \leq X_i \leq N$ за $1 \leq i \leq Q$,
 *   $0 \leq Y_i < 2^{20}$ за $1 \leq i \leq Q$ и $T_i = 1$. 

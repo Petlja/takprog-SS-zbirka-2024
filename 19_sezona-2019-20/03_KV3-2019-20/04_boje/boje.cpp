@@ -137,7 +137,7 @@ int main()
     for(int i = 0; i < n_dsu; i++)
         colours.insert(find(set[i]));
 
-    printf("%d\n", colours.size());
+    printf("%zu\n", colours.size());
     
     return 0;
 }

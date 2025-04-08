@@ -38,7 +38,7 @@ int main(){
   	printf("Nema spasa\n");
   	return 0;
   }
-  printf("Svet je spasen\n%i\n",sol.size());
+  printf("Svet je spasen\n%zu\n",sol.size());
   for(auto p:sol)
   	printf("%i %i\n",p.first,p.second);
   return 0;
