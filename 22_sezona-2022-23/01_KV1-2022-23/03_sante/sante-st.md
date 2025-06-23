@@ -1,6 +1,6 @@
 ---
 title: Санте
-timelimit: 0.762
+timelimit: 0.762 
 memlimit: 64
 owner: takprog
 origin: null
