@@ -1,5 +1,5 @@
 ---
-title: Опклада
+title: Опклада 
 timelimit: 0.157
 memlimit: 64
 owner: takprog
