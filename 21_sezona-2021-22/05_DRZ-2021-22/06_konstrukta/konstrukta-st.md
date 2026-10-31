@@ -1,7 +1,7 @@
 ---
 title: Конструкта
-timelimit: 1.309
-memlimit: 64
+timelimit: 1.6
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
