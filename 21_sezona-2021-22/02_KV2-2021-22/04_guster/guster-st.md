@@ -1,6 +1,6 @@
 ---
 title: Гуштер
-timelimit: 0.078
+timelimit: 0.5
 memlimit: 128
 owner: takprog
 origin: null
