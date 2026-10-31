@@ -1,7 +1,7 @@
 ---
 title: Преписивачи
-timelimit: 0.293
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
@@ -58,14 +58,14 @@ solutions:
 0 0
 1 2
 1 1
-0 3
--2 1
+0 2
+-2 0
 ```
 
 ### Излаз
 
 ```
-1
+3
 ```
 
 ## Oграничења
