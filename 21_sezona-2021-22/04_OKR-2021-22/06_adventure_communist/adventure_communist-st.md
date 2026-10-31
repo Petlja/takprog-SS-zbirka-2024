@@ -1,7 +1,7 @@
 ---
 title: AdVenture Communist
-timelimit: 0.098
-memlimit: 64
+timelimit: 0.5
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
