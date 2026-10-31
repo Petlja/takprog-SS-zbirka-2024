@@ -1,7 +1,7 @@
 ---
 title: Одбијање
-timelimit: 0.078
-memlimit: 64
+timelimit: 0.5
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
