@@ -1,7 +1,7 @@
 ---
-title: Мађионичар
-timelimit: 0.05
-memlimit: 64
+title: Млађионичар
+timelimit: 0.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
