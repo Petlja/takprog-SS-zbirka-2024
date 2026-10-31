@@ -1,7 +1,7 @@
 ---
 title: Окрам
-timelimit: 2.012
-memlimit: 64
+timelimit: 3
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
