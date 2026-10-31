@@ -1,7 +1,7 @@
 ---
 title: Ноћна вожња
-timelimit: 4.59
-memlimit: 64
+timelimit: 4.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
