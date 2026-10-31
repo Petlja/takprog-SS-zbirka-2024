@@ -1,6 +1,6 @@
 ---
 title: Једначине
-timelimit: 0.05
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
@@ -48,7 +48,7 @@ $0 \leq A, B \leq 10^{18}$.
 ### Излаз
 
 ~~~
-3
+9
 ~~~
 
 ### Објашњење примера
