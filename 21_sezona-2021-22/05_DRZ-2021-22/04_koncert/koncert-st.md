@@ -1,7 +1,7 @@
 ---
 title: Концерт
-timelimit: 0.235
-memlimit: 64
+timelimit: 0.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
