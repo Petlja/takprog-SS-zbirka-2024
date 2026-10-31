@@ -1,7 +1,7 @@
 ---
 title: Бурад
-timelimit: 0.958
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
