@@ -1,7 +1,7 @@
 ---
 title: Турнир
-timelimit: 0.41
-memlimit: 64
+timelimit: 2
+memlimit: 267
 owner: takprog
 origin: null
 tags: []
