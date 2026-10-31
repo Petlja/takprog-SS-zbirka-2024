@@ -1,3 +1,6 @@
+// Petlja's grader before 2025 read the exit code as a score: < 0 wrong, 0 or more accepted.
+// Today's grader accepts only exit 0 and reads the score from stdout, so main below maps one to the other.
+#define main legacy_main
 #include <cstdlib>
 #include <string>
 #include <algorithm>
@@ -29,4 +32,14 @@ int main(int argc, char *argv[])
 	{
 		return -1;
 	}
+}
+
+#undef main
+#include <cstdio>
+int main(int argc, char *argv[])
+{
+    int r = legacy_main(argc, argv);
+    if (r < 0) return 1;
+    printf("%d\n", r);
+    return 0;
 }

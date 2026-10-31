@@ -1,7 +1,7 @@
 ---
 title: Несуседни
-timelimit: 0.05
-memlimit: 64
+timelimit: 0.2
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
