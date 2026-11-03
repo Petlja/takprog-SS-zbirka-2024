@@ -1,7 +1,7 @@
 ---
 title: Фестивал
-timelimit: 2.168
-memlimit: 64
+timelimit: 2.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
