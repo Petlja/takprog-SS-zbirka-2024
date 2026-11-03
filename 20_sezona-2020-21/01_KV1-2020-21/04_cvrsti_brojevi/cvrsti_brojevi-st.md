@@ -1,7 +1,7 @@
 ---
 title: Чврсти бројеви
-timelimit: 0.137
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
