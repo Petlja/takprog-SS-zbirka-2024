@@ -1,7 +1,7 @@
 ---
 title: 01 низ
-timelimit: 0.997
-memlimit: 64
+timelimit: 2
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
