@@ -1,7 +1,7 @@
 ---
 title: ЈАГ
-timelimit: 0.195
-memlimit: 64
+timelimit: 1
+memlimit: 128
 owner: takprog
 origin: null
 tags: []
