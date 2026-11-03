@@ -1,7 +1,7 @@
 ---
 title: Туризам
-timelimit: 1.524
-memlimit: 64
+timelimit: 2.5
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
