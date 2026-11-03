@@ -1,7 +1,7 @@
 ---
 title: Карте 2
-timelimit: 1.622
-memlimit: 64
+timelimit: 2.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
