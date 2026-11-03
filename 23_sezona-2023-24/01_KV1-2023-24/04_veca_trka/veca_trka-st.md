@@ -1,6 +1,6 @@
 ---
 title: Већа трка
-timelimit: 1.64
+timelimit: 3
 memlimit: 64
 owner: takprog
 origin: null
