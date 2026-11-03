@@ -1,7 +1,7 @@
 ---
 title: Пећински зечеви
-timelimit: 0.82
-memlimit: 64
+timelimit: 6
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
