@@ -1,7 +1,7 @@
 ---
 title: Троокругао
-timelimit: 0.137
-memlimit: 64
+timelimit: 3.45
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
