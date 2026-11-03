@@ -1,7 +1,7 @@
 ---
 title: Обарање руку
-timelimit: 1.837
-memlimit: 64
+timelimit: 2.4
+memlimit: 768
 owner: takprog
 origin: null
 tags: []
