@@ -1,6 +1,6 @@
 ---
 title: Кувар
-timelimit: 0.215
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
