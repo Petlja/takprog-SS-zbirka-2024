@@ -1,6 +1,6 @@
 ---
 title: Преседања
-timelimit: 0.333
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
