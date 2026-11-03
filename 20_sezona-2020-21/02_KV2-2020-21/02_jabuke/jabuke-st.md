@@ -1,7 +1,7 @@
 ---
 title: Фриленс узгајивачи јабука
-timelimit: 0.508
-memlimit: 64
+timelimit: 2
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
