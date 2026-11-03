@@ -1,7 +1,7 @@
 ---
 title: Фејк реклама
-timelimit: 0.098
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
