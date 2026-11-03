@@ -1,7 +1,7 @@
 ---
 title: Домски Слетач
-timelimit: 0.352
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
