@@ -1,7 +1,7 @@
 ---
 title: Вештица
-timelimit: 0.313
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
