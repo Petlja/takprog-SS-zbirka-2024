@@ -1,7 +1,7 @@
 ---
 title: Новогодишње стабло
-timelimit: 1.27
-memlimit: 64
+timelimit: 2
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
