@@ -1,6 +1,6 @@
 ---
 title: Бактеријада
-timelimit: 0.274
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
