@@ -1,7 +1,7 @@
 ---
 title: Велика трка
-timelimit: 1.015
-memlimit: 64
+timelimit: 3
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
