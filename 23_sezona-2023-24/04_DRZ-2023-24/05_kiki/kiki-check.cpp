@@ -153,5 +153,5 @@ int main(int argc, char** argv) {
     if (ouf >> a)
         return -1;
 
-    return cout << "TOOO", 0;
+    return 0;
 }
