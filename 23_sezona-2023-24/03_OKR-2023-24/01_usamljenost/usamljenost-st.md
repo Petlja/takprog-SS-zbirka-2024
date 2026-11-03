@@ -1,6 +1,6 @@
 ---
 title: Усамљеност
-timelimit: 0.05
+timelimit: 0.3
 memlimit: 64
 owner: takprog
 origin: null
