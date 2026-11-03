@@ -1,6 +1,6 @@
 ---
 title: И/или
-timelimit: 0.118
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
