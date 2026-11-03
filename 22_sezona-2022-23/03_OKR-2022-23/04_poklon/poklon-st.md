@@ -1,7 +1,7 @@
 ---
 title: Поклон
-timelimit: 0.078
-memlimit: 64
+timelimit: 1
+memlimit: 128
 owner: takprog
 origin: null
 tags: []
