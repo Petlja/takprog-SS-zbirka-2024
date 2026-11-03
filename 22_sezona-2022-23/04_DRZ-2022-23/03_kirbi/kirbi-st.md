@@ -1,6 +1,6 @@
 ---
 title: Кирби
-timelimit: 1.25
+timelimit: 3
 memlimit: 64
 owner: takprog
 origin: null
