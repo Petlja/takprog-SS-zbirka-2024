@@ -1,7 +1,7 @@
 ---
 title: Боје
-timelimit: 0.449
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
