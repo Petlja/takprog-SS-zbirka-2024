@@ -1,7 +1,7 @@
 ---
 title: Судар
-timelimit: 0.05
-memlimit: 64
+timelimit: 0.1
+memlimit: 32
 owner: takprog
 origin: null
 tags: []
