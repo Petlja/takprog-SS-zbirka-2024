@@ -1,7 +1,7 @@
 ---
 title: Златници 3
-timelimit: 0.235
-memlimit: 128
+timelimit: 0.8
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
