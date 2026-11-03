@@ -1,7 +1,7 @@
 ---
 title: Бекство
-timelimit: 0.274
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
