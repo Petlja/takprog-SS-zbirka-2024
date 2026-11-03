@@ -1,7 +1,7 @@
 ---
 title: Једноставни пикадо
-timelimit: 0.469
-memlimit: 64
+timelimit: 2
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
