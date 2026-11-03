@@ -1,7 +1,7 @@
 ---
 title: Пикадо
-timelimit: 1.758
-memlimit: 64
+timelimit: 2
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
