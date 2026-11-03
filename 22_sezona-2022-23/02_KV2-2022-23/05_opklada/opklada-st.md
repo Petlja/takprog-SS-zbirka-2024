@@ -1,7 +1,7 @@
 ---
 title: Опклада
-timelimit: 3.535
-memlimit: 64
+timelimit: 4
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
