@@ -1,6 +1,6 @@
 ---
 title: Дејн
-timelimit: 0.958
+timelimit: 1.1
 memlimit: 64
 owner: takprog
 origin: null
