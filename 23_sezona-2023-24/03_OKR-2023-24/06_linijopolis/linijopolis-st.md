@@ -1,7 +1,7 @@
 ---
 title: Линијополис
-timelimit: 3.965
-memlimit: 64
+timelimit: 4
+memlimit: 128
 owner: takprog
 origin: null
 tags: []
