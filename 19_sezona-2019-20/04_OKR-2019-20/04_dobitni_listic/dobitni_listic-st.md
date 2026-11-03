@@ -1,7 +1,7 @@
 ---
 title: Добитни листић
-timelimit: 0.215
-memlimit: 64
+timelimit: 0.5
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
