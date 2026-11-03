@@ -1,7 +1,7 @@
 ---
 title: Безбедна подматрица
-timelimit: 0.605
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
