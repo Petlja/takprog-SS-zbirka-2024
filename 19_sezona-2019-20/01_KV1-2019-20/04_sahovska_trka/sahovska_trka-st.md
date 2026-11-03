@@ -1,7 +1,7 @@
 ---
 title: Шаховска трка
-timelimit: 0.215
-memlimit: 64
+timelimit: 1
+memlimit: 1024
 owner: takprog
 origin: null
 tags: []
