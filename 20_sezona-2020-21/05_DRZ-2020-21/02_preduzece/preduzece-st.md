@@ -1,7 +1,7 @@
 ---
 title: Предузеће
-timelimit: 0.195
-memlimit: 64
+timelimit: 1
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
