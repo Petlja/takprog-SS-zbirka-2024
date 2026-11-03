@@ -1,6 +1,6 @@
 ---
 title: Неподниз
-timelimit: 0.05
+timelimit: 3
 memlimit: 64
 owner: takprog
 origin: null
