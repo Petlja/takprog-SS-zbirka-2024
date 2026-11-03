@@ -1,7 +1,7 @@
 ---
 title: Питања
-timelimit: 1.055
-memlimit: 64
+timelimit: 1.5
+memlimit: 1024
 owner: takprog
 origin: null
 tags: []
