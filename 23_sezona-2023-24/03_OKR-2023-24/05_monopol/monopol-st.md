@@ -1,6 +1,6 @@
 ---
 title: Монопол
-timelimit: 0.235
+timelimit: 0.7
 memlimit: 64
 owner: takprog
 origin: null
