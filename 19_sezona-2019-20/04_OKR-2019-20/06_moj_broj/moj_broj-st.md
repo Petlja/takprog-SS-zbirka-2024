@@ -1,7 +1,7 @@
 ---
 title: Мој број
-timelimit: 0.05
-memlimit: 64
+timelimit: 0.3
+memlimit: 512
 owner: takprog
 origin: null
 tags: []

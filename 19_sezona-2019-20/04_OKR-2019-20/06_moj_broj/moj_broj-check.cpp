@@ -1,3 +1,7 @@
+// Petlja's grader before 2025 read the exit code as a score: < 0 wrong, 0 accepted (score 1), > 0 accepted
+// with that score. Today's grader accepts only exit 0 and reads the score from stdout, so main below maps one to the
+// other. The checker's own code is unchanged.
+#define main legacy_main
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -272,4 +276,14 @@ int main(int argc, char *argv[])
     }
 
     return score();
+}
+
+#undef main
+#include <cstdio>
+int main(int argc, char *argv[])
+{
+    int r = legacy_main(argc, argv);
+    if (r < 0) return 1;
+    if (r > 0) printf("%d\n", r);
+    return 0;
 }
