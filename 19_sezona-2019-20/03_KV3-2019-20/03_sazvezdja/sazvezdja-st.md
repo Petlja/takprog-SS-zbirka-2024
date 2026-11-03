@@ -1,6 +1,6 @@
 ---
 title: Сазвежђа
-timelimit: 0.05
+timelimit: 0.5
 memlimit: 64
 owner: takprog
 origin: null
