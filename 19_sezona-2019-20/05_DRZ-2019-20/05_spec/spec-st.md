@@ -1,7 +1,7 @@
 ---
 title: Спец задатак
-timelimit: 0.997
-memlimit: 64
+timelimit: 1.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
