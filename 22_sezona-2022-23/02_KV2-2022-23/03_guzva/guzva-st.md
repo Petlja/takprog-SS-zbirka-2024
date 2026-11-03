@@ -1,7 +1,7 @@
 ---
 title: Гужва
-timelimit: 1.64
-memlimit: 64
+timelimit: 3
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
