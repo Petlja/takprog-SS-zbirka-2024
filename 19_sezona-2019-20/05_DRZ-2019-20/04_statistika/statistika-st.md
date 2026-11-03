@@ -1,7 +1,7 @@
 ---
 title: Статистика
-timelimit: 1.035
-memlimit: 64
+timelimit: 1.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
