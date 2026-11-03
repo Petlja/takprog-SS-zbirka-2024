@@ -1,7 +1,7 @@
 ---
 title: Чаробњак из воза
-timelimit: 0.703
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
