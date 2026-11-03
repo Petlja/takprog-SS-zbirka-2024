@@ -1,7 +1,7 @@
 ---
 title: Палиндромска шетња
-timelimit: 1.68
-memlimit: 64
+timelimit: 3
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
