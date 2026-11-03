@@ -1,6 +1,6 @@
 ---
 title: Луксор
-timelimit: 0.958
+timelimit: 2
 memlimit: 64
 owner: takprog
 origin: null
