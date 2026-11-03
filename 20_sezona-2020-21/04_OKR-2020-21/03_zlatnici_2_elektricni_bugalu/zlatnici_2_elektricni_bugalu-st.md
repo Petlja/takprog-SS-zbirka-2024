@@ -1,7 +1,7 @@
 ---
 title: Златници 2 - електрични бугалу
-timelimit: 0.528
-memlimit: 64
+timelimit: 1.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
