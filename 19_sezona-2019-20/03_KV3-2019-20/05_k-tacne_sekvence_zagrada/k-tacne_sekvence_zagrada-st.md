@@ -1,6 +1,6 @@
 ---
 title: К-тачне секвенце заграда
-timelimit: 3.985
+timelimit: 5
 memlimit: 64
 owner: takprog
 origin: null
