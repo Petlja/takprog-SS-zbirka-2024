@@ -1,7 +1,7 @@
 ---
 title: Размена знака
-timelimit: 1.212
-memlimit: 64
+timelimit: 1.5
+memlimit: 256
 owner: takprog
 origin: null
 tags: []
