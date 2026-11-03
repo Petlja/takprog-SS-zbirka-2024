@@ -1,6 +1,6 @@
 ---
 title: Кромпири
-timelimit: 0.293
+timelimit: 0.75
 memlimit: 64
 owner: takprog
 origin: null
