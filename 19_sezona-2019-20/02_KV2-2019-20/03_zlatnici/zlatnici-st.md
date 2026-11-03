@@ -1,7 +1,7 @@
 ---
 title: Златници
-timelimit: 0.293
-memlimit: 64
+timelimit: 1
+memlimit: 512
 owner: takprog
 origin: null
 tags: []
