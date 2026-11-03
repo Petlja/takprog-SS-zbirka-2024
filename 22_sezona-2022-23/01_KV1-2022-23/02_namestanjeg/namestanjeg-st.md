@@ -1,6 +1,6 @@
 ---
 title: Намештање гласања
-timelimit: 0.177
+timelimit: 1
 memlimit: 64
 owner: takprog
 origin: null
